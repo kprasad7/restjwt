@@ -1,1 +1,1 @@
-web: gunicorn abbatec.wsgi --log-file -
+web: gunicorn restjwt.wsgi --log-file -
